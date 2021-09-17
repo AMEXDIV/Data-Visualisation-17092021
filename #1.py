@@ -81,3 +81,18 @@ Mat.show()
 
 # Question --> What if we dosen't specify X-Axis or Y-Axis ?
 
+
+"""
+Downloadble things -->
+pip install pandas 
+pip install numpy
+pip install matoplotlib
+https://www.anaconda.com/products/individual
+"""
+
+
+
+# IF you see this file as a big trouble please download Anaconda Navigator.
+# Change this file extension .py to .ipynb so that you can run it in Anaconda Navigator.
+
+# https://www.anaconda.com/products/individual is link to download Anaconda Navigator.
